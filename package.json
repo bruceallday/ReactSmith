@@ -1,0 +1,28 @@
+{
+  "name": "Reactsmith",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruce Pouncey",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/styles": "^4.10.0",
+    "@types/react": "^16.8.6",
+    "esm": "^3.2.25",
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4",
+    "pure-react-carousel": "^1.27.1",
+    "react": "^16.8.0",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-dom": "^16.8.0",
+    "react-mailchimp-subscribe": "^2.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scroll-into-view": "^1.8.2",
+    "regenerator-runtime": "^0.13.5"
+  }
+}
